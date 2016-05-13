@@ -1,2 +1,3 @@
-# carrinho_de_compras
-Carrinho de Compras PHP
+# Carrinho de Compras PHPOO
+
+Carrinho de Compras PHP com banco de dados
